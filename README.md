@@ -67,6 +67,11 @@ Ya que la matemática es el lenguaje de la naturaleza para expresarse, se debe c
 
 # 10. Bibliografía
 
+- https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+- Gharbi, A., & Hasnaoui, O. (2017). Conducted electromagnetic interference: theoretical and experimental investigation. 
+- https://electricidad.usal.es/Principal/Circuitos/Comentarios/Temas/LeyesKirchhoffYConservacion.pdf
+- [5]	Zhao, Y., Qin, Y., Gou, L., & Tang, B. (2017). Modeling and Experiment of a V-Shaped Piezoelectric Energy Harvester. 
+
 # 11. Anexos
 
 
