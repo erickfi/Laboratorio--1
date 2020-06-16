@@ -41,14 +41,29 @@ Estas leyes se derivan fundamentalmente de otras dos leyes más generales, la Le
 Ya que la matemática es el lenguaje de la naturaleza para expresarse, se debe cumplir en un circuito eléctrico las Leyes de Kirchhoff, independientemente del nodo o sentido en que se realicen las mediciones.
 
 # 5. Diagramas
-
+ - Circuito para análisis de Leyes de Kirchhoff
+ 
+     ![](https://github.com/erickfi/Laboratorio--1/blob/master/img/diagrama-1.PNG)
+     
+ - Circuito realizado en tinkercad
+ 
+ ![](https://github.com/erickfi/Laboratorio--1/blob/master/img/Leyes%20de%20kirchhoff-Tinkercad.png)
+ 
 # 6. Tablas de Resultados
 
 # 7. Conclusiones
 
+- Luego de hacer las mediciones de las tres trayectorias cerradas, se comprueba que la sumatoria de las subidas de tensión es igual a las sumatorias de caída de tensión.
+- En el nodo 1 y en el nodo 2 se comprueba que las corrientes que ingresan a un nodo son igual a las corrientes que salen del mismo, comprobando la LCK.
+- Las leyes de Kirchhoff permiten conocer los valores de la intensidad y caída de tensión, sin embargo, es necesario usar la Ley de Ohm para relacionar ambas variables.
+- Al usar las leyes de Kirchoff se obtiene un valor muy próximo al real, 2,05 frente a 2,054 debido a que materiales como las resistencias no entregan exactamente el valor que indica su código de color
 # 8. Recomendaciones
 
+ - Al realizar mediciones en el protoboard es necesario poner al multímetro en paralelo para medir caída de tensión y en serie para medir la intensidad, por este motivo no se debe conectar en la misma línea del protoboard para medir corrientes ya que estaría en paralelo, para ello conectamos un lado del multímetro al nodo y el otro al terminal del elemento que se encontrará en otra línea.
+ 
 # 9. Cronograma
+
+![](https://github.com/erickfi/Laboratorio--1/blob/master/img/Cronograma-Practica-1.PNG)
 
 # 10. Bibliografía
 
