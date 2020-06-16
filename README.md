@@ -40,5 +40,18 @@ En 1847 Gustav Kirchhoff postula dos leyes que permiten conocer de forma analít
 Estas leyes se derivan fundamentalmente de otras dos leyes más generales, la Ley de Conservación de la Carga , y la Ley de Conservación de la Energía .
 Ya que la matemática es el lenguaje de la naturaleza para expresarse, se debe cumplir en un circuito eléctrico las Leyes de Kirchhoff, independientemente del nodo o sentido en que se realicen las mediciones.
 
+# 5. Diagramas
+
+# 6. Tablas de Resultados
+
+# 7. Conclusiones
+
+# 8. Recomendaciones
+
+# 9. Cronograma
+
+# 10. Bibliografía
+
+# 11. Anexos
 
 
