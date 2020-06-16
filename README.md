@@ -74,4 +74,5 @@ Ya que la matemática es el lenguaje de la naturaleza para expresarse, se debe c
 
 # 11. Anexos
 
+- https://github.com/erickfi/Laboratorio--1/blob/master/Anexos/C%C3%A1lculos%20analiticos.pdf
 
