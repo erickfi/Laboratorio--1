@@ -1,4 +1,4 @@
-# Laboratorio--1
+# Laboratorio-1
 # Leyes de Kirchhoff
 **Autores:** Figueroa Erick, León Jiphson, Viracucha William
 
