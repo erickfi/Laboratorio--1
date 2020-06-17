@@ -95,7 +95,7 @@ Tabla 3. Verificación LCK
 - Luego de hacer las mediciones de las tres trayectorias cerradas, se comprueba que la sumatoria de las subidas de tensión es igual a las sumatorias de caída de tensión.
 - En el nodo 1 y en el nodo 2 se comprueba que las corrientes que ingresan a un nodo son igual a las corrientes que salen del mismo, comprobando la LCK.
 - Las leyes de Kirchhoff permiten conocer los valores de la intensidad y caída de tensión, sin embargo, es necesario usar la Ley de Ohm para relacionar ambas variables.
-- Al usar las leyes de Kirchoff se obtiene un valor muy próximo al real, 2,05 frente a 2,054 debido a que materiales como las resistencias no entregan exactamente el valor que indica su código de color.
+- Al usar las leyes de Kirchoff obtenemos un valor muy próximo al real, 2,05 frente a 2,054 debido a que materiales como las resistencias no entregan exactamente el valor que indica su código de color.
 
 # 8. Recomendaciones
 
