@@ -50,7 +50,46 @@ Ya que la matemática es el lenguaje de la naturaleza para expresarse, se debe c
  ![](https://github.com/erickfi/Laboratorio--1/blob/master/img/Leyes%20de%20kirchhoff-Tinkercad.png)
  
 # 6. Tablas de Resultados
+Tabla 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
 
+|Variable|Valor calculado|Valor medido|
+| ------------- | ------------- |-------------|
+|V_R1   (V) |	2.054|	2.05|
+|I_R1   (mA)	|2.054	|2.05|
+|V_R2   (V)	|4.247	|4.25|				
+|I_R2   (mA)	|1.089	|1.09|
+|V_R3   (V)	|2.123	|2.12|
+|I_R3   (mA)	|0.965	|0.96|
+|V_R4   (V) 	|2.123|	2.12|
+|I_R4   (mA) 	|0.965|	0.96|
+|V_R5   (V)	|3.697	|3.7|
+|I_R5   (mA)	|2.054	|2.05|
+
+Tabla 2. Verificación de LVK
+
+| Voltaje | Trayectoria   1 |        | Trayectoria 2 |        | Trayectoria 3 |        |
+|---------|-----------------|--------|---------------|--------|---------------|--------|
+|         | Calculado       | Medido | Calculado     | Medido | Calculado     | Medido |
+| V_T   (V)  | 10              | 10     | 10            | 10     | 10            | 10     |
+| V_R1  (V)  | -1.389          | -1.39  | -1.493        | -1.49  | 0             | 0      |
+| V_R2  (V) | 0               | 0      | -5.823        | -5.82  | -4.698        | -4.7   |
+| V_R3  (V) | -3.056          | -3.06  | 0             | 0      | -2.651        | -2.65  |
+| V_R4  (V) | -3.056          | -3.06  | 0             | 0      | -2.651        | -2.65  |
+| V_R5  (V) | -2.499          | -2.49  | -2.684        | -2.69  | 0             | 0      |
+| ∑V    | 0               | 0      | 0             | 0      | 0             | 0      |
+
+Tabla 3. Verificación LCK
+
+| Corriente   | Nodo 1    |        | Nodo 2    |        | Trayectoria 3 |        |
+|-------------|-----------|--------|-----------|--------|---------------|--------|
+|             | Calculado | Medido | Calculado | Medido | Calculado     | Medido |
+| I_R1   (mA) | 2.054     | 2.05   | 0         | 0      | 10            | 10     |
+| I_R2   (mA) | -1.089    | -1.09  | 1.089     | 1.9    | 0             | 0      |
+| I_R3   (mA) | -0.965    | 0.96   | 0.965     | 0.96   | -4.698        | -4.7   |
+| I_R4   (mA) | 0         | 0      | 0         | 0      | -2.651        | -2.65  |
+| I_R5   (mA) | 0         | 0      | -2.054    | -2.05  | -2.651        | -2.65  |
+| ∑I          | 0         | 0      | 0         | 0      | 0             | 0      |
+| ∑V          | 0         | 0      | 0         | 0      | 0             | 0      |
 # 7. Conclusiones
 
 - Luego de hacer las mediciones de las tres trayectorias cerradas, se comprueba que la sumatoria de las subidas de tensión es igual a las sumatorias de caída de tensión.
