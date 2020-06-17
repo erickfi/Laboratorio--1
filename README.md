@@ -89,7 +89,7 @@ Tabla 3. Verificación LCK
 | I_R4   (mA) | 0         | 0      | 0         | 0      | -2.651        | -2.65  |
 | I_R5   (mA) | 0         | 0      | -2.054    | -2.05  | -2.651        | -2.65  |
 | ∑I          | 0         | 0      | 0         | 0      | 0             | 0      |
-| ∑V          | 0         | 0      | 0         | 0      | 0             | 0      |
+
 # 7. Conclusiones
 
 - Luego de hacer las mediciones de las tres trayectorias cerradas, se comprueba que la sumatoria de las subidas de tensión es igual a las sumatorias de caída de tensión.
